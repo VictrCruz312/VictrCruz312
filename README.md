@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Me chamo Victor</h1>
 <h3 align="center">Desenvolvedor Full Stack em formação</h3>
 
-<a href="https://github.com/VictrCruz312/">
-  <img height="180em" width="700em" src="https://github-readme-stats.vercel.app/api?username=victrcruz312&show_icons=true&locale=en&theme=merko" />
-  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs?username=victrcruz312&show_icons=true&locale=en&layout=compact&theme=merko" />
+<a width="1300em" href="https://github.com/VictrCruz312/">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=victrcruz312&show_icons=true&locale=en&theme=merko" />
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=victrcruz312&show_icons=true&locale=en&layout=compact&theme=merko" />
 </a>
 
 
