@@ -13,7 +13,7 @@
 
 <a width="100%" href="https://github.com/VictrCruz312/">
   <img height="180em" width="50%"  src="https://github-readme-stats.vercel.app/api?username=victrcruz312&show_icons=true&locale=en&theme=merko" />
-  <img height="220em" width="43%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=victrcruz312&show_icons=true&locale=en&layout=compact&theme=merko" />
+  <img height="180em" padding="20px 0" width="43%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=victrcruz312&show_icons=true&locale=en&layout=compact&theme=merko" />
 </a>
 
 <br>
