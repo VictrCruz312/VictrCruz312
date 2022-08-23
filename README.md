@@ -10,4 +10,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victrcruz312&show_icons=true&locale=en&layout=compact&theme=radical" alt="victrcruz312" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victrcruz312&show_icons=true&locale=en" alt="victrcruz312" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victrcruz312&show_icons=true&locale=en&theme=radical" alt="victrcruz312" /></p>
