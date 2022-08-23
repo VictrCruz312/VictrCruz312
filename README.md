@@ -1,11 +1,7 @@
 <h1 align="center">Olá 👋, Me chamo Victor</h1>
 <h3 align="center">Desenvolvedor Full Stack em formação</h3>
 
-<a width="1000em" href="https://github.com/VictrCruz312/">
-  <img height="180em" width="50%"  src="https://github-readme-stats.vercel.app/api?username=victrcruz312&show_icons=true&locale=en&theme=merko" />
-  <img height="180em" width="43%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=victrcruz312&show_icons=true&locale=en&layout=compact&theme=merko" />
-</a>
-
+<br>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
@@ -14,6 +10,13 @@
   </a>
   <a href="https://linkedin.com/in/victor-d-cruz" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
+
+<br>
+
+<a width="1000em" href="https://github.com/VictrCruz312/">
+  <img height="180em" width="50%"  src="https://github-readme-stats.vercel.app/api?username=victrcruz312&show_icons=true&locale=en&theme=merko" />
+  <img height="180em" width="43%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=victrcruz312&show_icons=true&locale=en&layout=compact&theme=merko" />
+</a>
 
 <br>
 
