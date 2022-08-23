@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, Me chamo Victor</h1>
 <h3 align="center">Desenvolvedor Full Stack em formação</h3>
 
-<br>
-
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
   <a href="mailto:motoggb979@gmail.com">
