@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">Desenvolvedor Full Stack em formação</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victrcruz312" alt="victrcruz312" /></a> </p>
-
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/victor-d-cruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-d-cruz" height="30" width="40" /></a>
