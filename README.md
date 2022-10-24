@@ -15,12 +15,14 @@
   <img height="180em" width="50%"  src="https://github-readme-stats.vercel.app/api?username=victrcruz312&show_icons=true&locale=en&theme=merko" />
   <img height="180em" width="43%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=victrcruz312&show_icons=true&locale=en&layout=compact&theme=merko" />
   <img height="180em" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=VictrCruz312&theme=merko&locale=pt-br">
+  <img width="280px" alt="quote" src="https://uploaddeimagens.com.br/images/004/074/634/original/Qualquer_um_pode_escrever_um_c%C3%B3digo_que_o_computador_entenda._Bons_programadores_escrevem_c%C3%B3digos_que_os_humanos_entendam.%E2%80%9D_%E2%80%93_Martin_Fowler.png?1666638568"/>
 </a>
+
 
 <br>
 
 <h2 align="center">🛠️ &ensp; <i>Tecnologias</i></h2>
-<table align="right" height="279px">
+<table align="center" height="279px">
   <tr>
      <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="65px" alt="typescript icon"/><br>
@@ -190,8 +192,6 @@
     </td>
   </tr>
 </table>
-
-<img align="left" width="280px" alt="quote" src="https://uploaddeimagens.com.br/images/004/074/443/original/Qualquer_um_pode_escrever_um_c%C3%B3digo_que_o_computador_entenda._Bons_programadores_escrevem_c%C3%B3digos_que_os_humanos_entendam.%E2%80%9D_%E2%80%93_Martin_Fowler.png?1666635487"/>
 
 <br>
 
