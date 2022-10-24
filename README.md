@@ -14,10 +14,185 @@
 <a width="100%" href="https://github.com/VictrCruz312/">
   <img height="180em" width="50%"  src="https://github-readme-stats.vercel.app/api?username=victrcruz312&show_icons=true&locale=en&theme=merko" />
   <img height="180em" width="43%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=victrcruz312&show_icons=true&locale=en&layout=compact&theme=merko" />
+  <img height="180em" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=VictrCruz312&theme=merko&locale=pt-br">
 </a>
 
 <br>
 
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h2 align="center">🛠️ &ensp; <i>Tecnologias</i></h2>
+<table align="right" height="279px">
+  <tr>
+     <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="65px" alt="typescript icon"/><br>
+      <sub>
+        <b>
+          <pre>Typescript</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br>
+      <sub>
+        <b>
+          <pre>Javascript</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="NextJS icon"/><br>
+      <sub>
+        <b>
+          <pre>NextJS</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br>
+      <sub>
+        <b>
+          <pre>ReactJS</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;Git&emsp;</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="65px" alt="Docker icon"/><br>
+      <sub>
+        <b>
+          <pre>Docker</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres" width="65px" alt="Postgres icon"/><br>
+      <sub>
+        <b>
+          <pre>Postgres</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
+      <sub>
+        <b>
+          <pre>HTML5</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="styled-components icon"/><br>
+      <sub>
+        <b>
+          <pre>Styled<br>Components</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br>
+      <sub>
+        <b>
+          <pre>NodeJS</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express" width="65px" alt="ExpressJS icon"/><br>
+      <sub>
+        <b>
+          <pre>ExpressJS</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/86276393/177162603-b078ec0b-5097-4067-9e04-f2e260e298a8.png" width="65px" alt="Yarn/npm icon"/><br>
+      <sub>
+        <b>
+          <pre>Yarn/npm</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="65px" alt="Axios icon"/><br>
+      <sub>
+        <b>
+          <pre>&ensp;Axios&ensp;</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="65px" alt="Insomnia icon"/><br>
+      <sub>
+        <b>
+          <pre>Insomnia</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
+      <sub>
+        <b>
+          <pre>VSCode</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma icon"/><br>
+      <sub>
+        <b>
+          <pre>Figma</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=jest" width="65px" alt="Jest icon"/><br>
+      <sub>
+        <b>
+          <pre>Jest</pre>
+        </b>
+      </sub>
+    </td>
+        <td align="center">
+      <img src="https://skillicons.dev/icons?i=materialui" width="65px" alt="Material UI icon"/><br>
+      <sub>
+        <b>
+          <pre>Material UI</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
+      <sub>
+        <b>
+          <pre>&ensp;CSS3&ensp;</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br>
+      <sub>
+        <b>
+          <pre>Terminal</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+</table>
+
+<img align="left" width="280px" alt="quote" src="https://uploaddeimagens.com.br/images/004/074/443/original/Qualquer_um_pode_escrever_um_c%C3%B3digo_que_o_computador_entenda._Bons_programadores_escrevem_c%C3%B3digos_que_os_humanos_entendam.%E2%80%9D_%E2%80%93_Martin_Fowler.png?1666635487"/>
+
+<br>
 
 ![Snake animation](https://github.com/VictrCruz312/VictrCruz312/blob/output/github-contribution-grid-snake.svg)
