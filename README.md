@@ -1,8 +1,13 @@
 <h1 align="center">Olá 👋, Me chamo Victor</h1>
-<h3 align="center">Desenvolvedor Full Stack em formação</h3>
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
+---
+
+<h3 align="center" style="color:red">Desenvolvedor Full Stack em formação</h3>
+
+---
+
+> <h3 align="left">Conecte-se comigo:</h3>
+<p align="center">
   <a href="mailto:motoggb979@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank">
   </a>
@@ -11,17 +16,23 @@
 
 <br>
 
+---
+
 <a width="100%" href="https://github.com/VictrCruz312/">
-  <img height="180em" width="50%"  src="https://github-readme-stats.vercel.app/api?username=victrcruz312&show_icons=true&locale=en&theme=merko" />
-  <img height="180em" width="43%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=victrcruz312&show_icons=true&locale=en&layout=compact&theme=merko" />
-  <img height="180em" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=VictrCruz312&theme=merko&locale=pt-br">
-  <img width="280px" alt="quote" src="https://uploaddeimagens.com.br/images/004/074/634/original/Qualquer_um_pode_escrever_um_c%C3%B3digo_que_o_computador_entenda._Bons_programadores_escrevem_c%C3%B3digos_que_os_humanos_entendam.%E2%80%9D_%E2%80%93_Martin_Fowler.png?1666638568"/>
-</a>
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victrcruz312&show_icons=true&locale=en&theme=merko" />
+    <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=victrcruz312&show_icons=true&locale=en&layout=compact&theme=merko" />
+  </p>
+</a>   
+
+---
+
+> “Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam.” — Martin Fowler.
 
 
 <br>
 
-<h2 align="center">🛠️ &ensp; <i>Tecnologias</i></h2>
+<h2 align="center">🛠️ &ensp; <i>Minhas tecnologias</i></h2>
 <table align="center" height="279px">
   <tr>
      <td align="center">
@@ -196,3 +207,7 @@
 <br>
 
 ![Snake animation](https://github.com/VictrCruz312/VictrCruz312/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img width="59%" src="https://github-readme-streak-stats.herokuapp.com?user=VictrCruz312&theme=merko&locale=pt-br">
+</p>
