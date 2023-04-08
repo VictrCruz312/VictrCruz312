@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center" style="color:red">Desenvolvedor Full Stack em formação</h3>
+<h3 align="center" style="color:red">Desenvolvedor Full Stack</h3>
 
 ---
 
